@@ -15,24 +15,32 @@ Utilizo o **Fedora Kinoite** (sistema imutável/atômico). Meu workflow é 100% 
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 🚀 Software & Web
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/Aseprite-7D9BCC?style=for-the-badge&logo=aseprite&logoColor=black" />
+
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</div>
+
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Aseprite-7D9BCC?style=for-the-badge&logo=aseprite&logoColor=black" alt="Aseprite" />
+</div>
 
 ### 📟 Hardware & Low-Level
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/SystemVerilog-001F3F?style=for-the-badge&logo=verilog&logoColor=white" />
-<img src="https://img.shields.io/badge/PlatformIO-F34B7D?style=for-the-badge&logo=platformio&logoColor=white" />
+
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SystemVerilog-001F3F?style=for-the-badge&logo=verilog&logoColor=white" alt="SystemVerilog" />
+  <img src="https://img.shields.io/badge/PlatformIO-F34B7D?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO" />
+</div>
 
 ---
 
