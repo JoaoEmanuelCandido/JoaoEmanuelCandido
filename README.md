@@ -6,7 +6,7 @@ Sou estudante do último ano do curso de TSI e residente no **Embarcatech** na t
 
 ---
 
-## 💻 Ambiente de Desenvolvimento
+## Ambiente de Desenvolvimento
 Utilizo o **Fedora Kinoite** (sistema imutável/atômico). Meu workflow é 100% baseado em **containers via Distrobox**, garantindo um ambiente de desenvolvimento isolado, reprodutível e eficiente.
 
 ![Fedora](https://img.shields.io/badge/Fedora_Kinoite-4573E3?style=for-the-badge&logo=fedora&logoColor=white) 
@@ -15,9 +15,9 @@ Utilizo o **Fedora Kinoite** (sistema imutável/atômico). Meu workflow é 100% 
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
-### 🚀 Software & Web
+### Software & Web
 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
@@ -33,7 +33,7 @@ Utilizo o **Fedora Kinoite** (sistema imutável/atômico). Meu workflow é 100% 
   <img src="https://img.shields.io/badge/Aseprite-7D9BCC?style=for-the-badge&logo=aseprite&logoColor=black" alt="Aseprite" />
 </div>
 
-### 📟 Hardware & Low-Level
+### Hardware & Low-Level
 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
@@ -44,7 +44,7 @@ Utilizo o **Fedora Kinoite** (sistema imutável/atômico). Meu workflow é 100% 
 
 ---
 
-## 📫 Contatos
+## Contatos
 
 <a href="mailto:joaoemanu3lcandido@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-emanuel-a18894283/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
