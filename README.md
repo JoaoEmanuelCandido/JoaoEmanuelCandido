@@ -46,7 +46,6 @@ Utilizo o **Fedora Kinoite** (sistema imutável/atômico). Meu workflow é 100% 
 
 ## 📫 Contatos
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-joaoemanu3lcandido@gmail.com
-
+ - joaoemanu3lcandido@gmail.com
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-emanuel-a18894283/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
