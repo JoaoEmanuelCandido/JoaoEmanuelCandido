@@ -2,21 +2,31 @@
 
 ### Desenvolvedor Full-Stack (Front-End) | Game Dev & Design | Sistemas Embarcados & FPGA
 
-Sou estudante do último ano de Engenharia, apaixonado por resolver problemas que unem software e hardware. Atualmente, foco minhas energias no desenvolvimento de aplicações web modernas e na criação de experiências imersivas em jogos.
+Sou estudante do último ano do curso de TSI e residente do Embarcatech na trilha de FPGA, uma residência tecnológica focada em tecnologias de baixo nível. Tenho experiência na criação de interfaces modernas (Front-End) e sou apaixonado pelo desenvolvimento de jogos, área onde busco constante evolução. Atualmente, contribuo com o laboratório LAICA (IFRN) e com a equipe de game dev Cleitinho Valley.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Ambiente de Trabalho
 
-- **Web:** HTML, CSS, JavaScript (Foco em Front-end)
-- **Low-level:** C, Python, VHDL (FPGA), IoT
-- **Geral:** Git, Linux (Fedora Kinoite), Docker/Podman
-- **Workflow:** 100% conteinerizado via Distrobox 📦
-
-## 🕹️ Game Dev
-Faço parte de uma equipe de desenvolvimento de jogos acadêmica, onde aplico conceitos de Game Design e lógica de programação.
+Utilizo o Fedora Kinoite (sistema imutável/atômico). Meu workflow é 100% baseado em containers via Distrobox, garantindo um ambiente de desenvolvimento isolado, reprodutível e eficiente.
 
 ---
 
-📫 **Como me encontrar:**
-[Link para o seu LinkedIn aqui]
+## Tecnologias e Ferramentas
+
+### Software & Web
+
+- **Linguagens**: TypeScript, JavaScript, Python
+- **Frameworks:** Vue.js, React.js, Adonis.js
+- **Design/Games:** Godot, Blender, Aseprite
+
+### Hardware & Low-Level
+
+- **Linguagens:** C, C++, SystemVerilog/Verilog
+- **Ferramentas:** OSS-CAD-SUITE, PlatformIO, Icarus Verilog, GTKWave, LiteX
+
+---
+
+**Meus Contatos:**
+Email: joaoemanu3lcandido@gmail.com
+LinkedIN: https://www.linkedin.com/in/jo%C3%A3o-emanuel-a18894283/
