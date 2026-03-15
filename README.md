@@ -2,8 +2,6 @@
 
 ### Desenvolvedor Full-Stack (Front-End) | Game Dev & Design | Sistemas Embarcados & FPGA
 
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoEmanuelCandido&langs_count=8&theme=radical&hide_border=true" />
-
 Sou estudante do último ano do curso de TSI e residente no **Embarcatech** na trilha de FPGA, uma residência tecnológica focada em tecnologias de baixíssimo nível. Tenho experiência na criação de interfaces modernas (Front-End) e sou apaixonado pelo desenvolvimento de jogos, área onde busco constante evolução. Atualmente, contribuo com o laboratório **LAICA (IFRN)** e com a equipe de game dev **Cleitinho Valley**.
 
 ---
@@ -53,9 +51,3 @@ Utilizo o **Fedora Kinoite** (sistema imutável/atômico). Meu workflow é 100% 
   <a href="mailto:joaoemanu3lcandido@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-emanuel-a18894283/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaoEmanuelCandido&show_icons=true&theme=radical&hide_border=true" />
-</p>
