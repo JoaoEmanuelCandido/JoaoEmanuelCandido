@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o João Emanuel! 👋
 
-<!--
-**JoaoEmanuelCandido/JoaoEmanuelCandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Full-Stack (Front-End) | Game Dev & Design | Sistemas Embarcados & FPGA
 
-Here are some ideas to get you started:
+Sou estudante do último ano de Engenharia, apaixonado por resolver problemas que unem software e hardware. Atualmente, foco minhas energias no desenvolvimento de aplicações web modernas e na criação de experiências imersivas em jogos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Web:** HTML, CSS, JavaScript (Foco em Front-end)
+- **Low-level:** C, Python, VHDL (FPGA), IoT
+- **Geral:** Git, Linux (Fedora Kinoite), Docker/Podman
+- **Workflow:** 100% conteinerizado via Distrobox 📦
+
+## 🕹️ Game Dev
+Faço parte de uma equipe de desenvolvimento de jogos acadêmica, onde aplico conceitos de Game Design e lógica de programação.
+
+---
+
+📫 **Como me encontrar:**
+[Link para o seu LinkedIn aqui]
